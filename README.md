@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajaosak
 - 👀 I’m interested in Unity, general games or code
 - 🌱 I’m currently learning Coding (specifically: C#, Lua, Py)
-- 💞️ I’m looking to collaborate on currently unknown
+- 💞️ I’m looking to collaborate on (undecided)
 - 📫 How to reach me Prefer not to
 
 <!---
