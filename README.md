@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ajaosak
-- 👀 I’m interested in Coding/games
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on nothing bruh
-- 📫 How to reach me d o n t
+- 👀 I’m interested in Unity, general games or code
+- 🌱 I’m currently learning Coding (specifically: C#, Lua, Py)
+- 💞️ I’m looking to collaborate on currently unknown
+- 📫 How to reach me Prefer not to
 
 <!---
 Ajaosak/Ajaosak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
